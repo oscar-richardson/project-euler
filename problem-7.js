@@ -1,3 +1,4 @@
+/* test */
 function nthPrime(n) {
     let primes = [];
     let i = 2;
